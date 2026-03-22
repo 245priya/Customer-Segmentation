@@ -1,7 +1,6 @@
-pandas
-streamlit
-scikit-learn
-kneed
-joblib
+streamlit==1.32.2
+pandas==2.2.2
+scikit-learn==1.4.2
+kneed==0.8.5
+joblib==1.4.2
 altair==4.2.2
-imghdr
